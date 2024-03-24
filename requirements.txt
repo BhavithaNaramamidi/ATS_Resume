@@ -23,5 +23,5 @@ WeasyPrint
 cairocffi
 cffi
 Pillow
-tesseract-ocr
+
 
