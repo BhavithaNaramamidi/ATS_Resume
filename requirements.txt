@@ -19,4 +19,4 @@ pdfkit
 pango
 pillow
 numpy
-PIL
+
