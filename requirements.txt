@@ -19,4 +19,8 @@ pdfkit
 pango
 pillow
 numpy
+WeasyPrint
+cairocffi
+cffi
+Pillow
 
